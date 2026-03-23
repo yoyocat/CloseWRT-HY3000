@@ -73,7 +73,7 @@ UPDATE_PACKAGE "partexp" "sirpdboy/luci-app-partexp" "main"
 UPDATE_PACKAGE "quickfile" "sbwml/luci-app-quickfile" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 #UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
-UPDATE_PACKAGE "dockerman" "lisaac/luci-app-dockerman" "main"
+UPDATE_PACKAGE "dockerman" "lisaac/luci-app-dockerman" "master"
 
 #更新软件包版本
 UPDATE_VERSION() {
