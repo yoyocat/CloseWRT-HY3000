@@ -61,13 +61,13 @@ jobs:
       #默认主机名
       WRT_NAME: ImmortalWrt
       #默认WIFI名称
-      WRT_SSID: XQT
+      WRT_SSID: ImmortalWrt
       #默认WIFI密码
       WRT_WORD: 12345678
       #默认地址
       WRT_IP: 192.168.2.1
       #默认密码，仅作提示，修改无用
-      WRT_PW: 无
+      WRT_PW: 12345678
       #源码链接
       WRT_REPO: https://github.com/${{matrix.REPO_INFO.SOURCE}}.git
       #源码分支
