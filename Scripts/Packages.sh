@@ -74,7 +74,7 @@ UPDATE_PACKAGE "partexp" "sirpdboy/luci-app-partexp" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 #UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 UPDATE_PACKAGE "dockerman" "lisaac/luci-app-dockerman" "master"
-UPDATE_PACKAGE "dae" "QiuSimons/luci-app-daed" "kix"
+UPDATE_PACKAGE "daed" "QiuSimons/luci-app-daed" "kix"
 
 #更新软件包版本
 UPDATE_VERSION() {
